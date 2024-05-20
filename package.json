@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ljharb/tsconfig": "^0.2.0",
     "argon": "^2.0.21",
     "argon2": "^0.40.1",
     "cors": "^2.8.5",
